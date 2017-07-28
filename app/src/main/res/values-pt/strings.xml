@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Teste RecycleView</string>
+  <string name="action_settings">Config</string>
+  <string name="delete_view">Remover</string>
+  <string name="add_view">Adicionar</string>
+
+  <string name="lbl_nome">Nome</string>
+  <string name="lbl_sobrenome">Sobrenome</string>
+  <string name="lbl_endereco">Endereço</string>
+  <string name="lbl_email">E-Mail</string>
+  <string name="lbl_telefone">Telefone</string>
+</resources>

@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="br.com.dotcom.app2.activity.ActMainActivity">
+    <item
+        android:id="@+id/menu_item_00"
+        android:orderInCategory="100"
+        android:title="Mudar Visualização"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/menu_item_01"
+        android:orderInCategory="101"
+        android:title="2"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/menu_item_02"
+        android:orderInCategory="102"
+        android:title="3"
+        app:showAsAction="never"/>
+</menu>
